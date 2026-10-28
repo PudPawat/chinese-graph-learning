@@ -1,0 +1,2412 @@
+{
+  "characters": [
+    {
+      "traditional": "大",
+      "simplified": "大",
+      "codepoint": "U+5927",
+      "stroke_count": 3,
+      "structure": "獨體",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄉㄚˋ",
+      "pinyin": "dà",
+      "tone": 4,
+      "gloss_en": "big",
+      "gloss_zh": "大",
+      "part_of_speech": "adjective",
+      "radical": "大",
+      "radical_meaning": "big"
+    },
+    {
+      "traditional": "小",
+      "simplified": "小",
+      "codepoint": "U+5C0F",
+      "stroke_count": 3,
+      "structure": "獨體",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄒㄧㄠˇ",
+      "pinyin": "xiǎo",
+      "tone": 3,
+      "gloss_en": "small",
+      "gloss_zh": "小",
+      "part_of_speech": "adjective",
+      "radical": "小",
+      "radical_meaning": "small"
+    },
+    {
+      "traditional": "心",
+      "simplified": "心",
+      "codepoint": "U+5FC3",
+      "stroke_count": 4,
+      "structure": "獨體",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄒㄧㄣ",
+      "pinyin": "xīn",
+      "tone": 1,
+      "gloss_en": "heart; mind",
+      "gloss_zh": "心臟；內心",
+      "part_of_speech": "noun",
+      "radical": "心",
+      "radical_meaning": "heart, mind"
+    },
+    {
+      "traditional": "木",
+      "simplified": "木",
+      "codepoint": "U+6728",
+      "stroke_count": 4,
+      "structure": "獨體",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄇㄨˋ",
+      "pinyin": "mù",
+      "tone": 4,
+      "gloss_en": "tree; wood",
+      "gloss_zh": "樹木；木材",
+      "part_of_speech": "noun",
+      "radical": "木",
+      "radical_meaning": "tree, wood"
+    },
+    {
+      "traditional": "水",
+      "simplified": "水",
+      "codepoint": "U+6C34",
+      "stroke_count": 4,
+      "structure": "獨體",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄕㄨㄟˇ",
+      "pinyin": "shuǐ",
+      "tone": 3,
+      "gloss_en": "water",
+      "gloss_zh": "水",
+      "part_of_speech": "noun",
+      "radical": "水",
+      "radical_meaning": "water"
+    },
+    {
+      "traditional": "江",
+      "simplified": "江",
+      "codepoint": "U+6C5F",
+      "stroke_count": 6,
+      "structure": "左右",
+      "tocfl_band": null,
+      "zhuyin": "ㄐㄧㄤ",
+      "pinyin": "jiāng",
+      "tone": 1,
+      "gloss_en": "large river",
+      "gloss_zh": "大河",
+      "part_of_speech": "noun",
+      "radical": "水",
+      "radical_meaning": "water"
+    },
+    {
+      "traditional": "見",
+      "simplified": "见",
+      "codepoint": "U+898B",
+      "stroke_count": 7,
+      "structure": "獨體",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄐㄧㄢˋ",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "gloss_en": "to see",
+      "gloss_zh": "看見",
+      "part_of_speech": "verb",
+      "radical": "見",
+      "radical_meaning": "see"
+    },
+    {
+      "traditional": "林",
+      "simplified": "林",
+      "codepoint": "U+6797",
+      "stroke_count": 8,
+      "structure": "左右",
+      "tocfl_band": "基礎級",
+      "zhuyin": "ㄌㄧㄣˊ",
+      "pinyin": "lín",
+      "tone": 2,
+      "gloss_en": "grove; woods",
+      "gloss_zh": "樹林",
+      "part_of_speech": "noun",
+      "radical": "木",
+      "radical_meaning": "tree, wood"
+    },
+    {
+      "traditional": "河",
+      "simplified": "河",
+      "codepoint": "U+6CB3",
+      "stroke_count": 8,
+      "structure": "左右",
+      "tocfl_band": null,
+      "zhuyin": "ㄏㄜˊ",
+      "pinyin": "hé",
+      "tone": 2,
+      "gloss_en": "river",
+      "gloss_zh": "河流",
+      "part_of_speech": "noun",
+      "radical": "水",
+      "radical_meaning": "water"
+    },
+    {
+      "traditional": "青",
+      "simplified": "青",
+      "codepoint": "U+9752",
+      "stroke_count": 8,
+      "structure": "上下",
+      "tocfl_band": null,
+      "zhuyin": "ㄑㄧㄥ",
+      "pinyin": "qīng",
+      "tone": 1,
+      "gloss_en": "blue-green; young",
+      "gloss_zh": "青色；年輕",
+      "part_of_speech": "adjective",
+      "radical": "青",
+      "radical_meaning": "blue-green"
+    },
+    {
+      "traditional": "看",
+      "simplified": "看",
+      "codepoint": "U+770B",
+      "stroke_count": 9,
+      "structure": "上下",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄎㄢˋ",
+      "pinyin": "kàn",
+      "tone": 4,
+      "gloss_en": "to look at",
+      "gloss_zh": "看",
+      "part_of_speech": "verb",
+      "radical": "目",
+      "radical_meaning": "eye"
+    },
+    {
+      "traditional": "海",
+      "simplified": "海",
+      "codepoint": "U+6D77",
+      "stroke_count": 10,
+      "structure": "左右",
+      "tocfl_band": "基礎級",
+      "zhuyin": "ㄏㄞˇ",
+      "pinyin": "hǎi",
+      "tone": 3,
+      "gloss_en": "sea",
+      "gloss_zh": "海洋",
+      "part_of_speech": "noun",
+      "radical": "水",
+      "radical_meaning": "water"
+    },
+    {
+      "traditional": "情",
+      "simplified": "情",
+      "codepoint": "U+60C5",
+      "stroke_count": 11,
+      "structure": "左右",
+      "tocfl_band": "基礎級",
+      "zhuyin": "ㄑㄧㄥˊ",
+      "pinyin": "qíng",
+      "tone": 2,
+      "gloss_en": "feeling; emotion",
+      "gloss_zh": "情感",
+      "part_of_speech": "noun",
+      "radical": "心",
+      "radical_meaning": "heart, mind"
+    },
+    {
+      "traditional": "清",
+      "simplified": "清",
+      "codepoint": "U+6E05",
+      "stroke_count": 11,
+      "structure": "左右",
+      "tocfl_band": null,
+      "zhuyin": "ㄑㄧㄥ",
+      "pinyin": "qīng",
+      "tone": 1,
+      "gloss_en": "clear; pure",
+      "gloss_zh": "清澈",
+      "part_of_speech": "adjective",
+      "radical": "水",
+      "radical_meaning": "water"
+    },
+    {
+      "traditional": "晴",
+      "simplified": "晴",
+      "codepoint": "U+6674",
+      "stroke_count": 12,
+      "structure": "左右",
+      "tocfl_band": null,
+      "zhuyin": "ㄑㄧㄥˊ",
+      "pinyin": "qíng",
+      "tone": 2,
+      "gloss_en": "sunny; clear sky",
+      "gloss_zh": "天晴",
+      "part_of_speech": "adjective",
+      "radical": "日",
+      "radical_meaning": "sun, day"
+    },
+    {
+      "traditional": "森",
+      "simplified": "森",
+      "codepoint": "U+68EE",
+      "stroke_count": 12,
+      "structure": "品字",
+      "tocfl_band": "基礎級",
+      "zhuyin": "ㄙㄣ",
+      "pinyin": "sēn",
+      "tone": 1,
+      "gloss_en": "forest",
+      "gloss_zh": "森林",
+      "part_of_speech": "noun",
+      "radical": "木",
+      "radical_meaning": "tree, wood"
+    },
+    {
+      "traditional": "湖",
+      "simplified": "湖",
+      "codepoint": "U+6E56",
+      "stroke_count": 12,
+      "structure": "左右",
+      "tocfl_band": null,
+      "zhuyin": "ㄏㄨˊ",
+      "pinyin": "hú",
+      "tone": 2,
+      "gloss_en": "lake",
+      "gloss_zh": "湖泊",
+      "part_of_speech": "noun",
+      "radical": "水",
+      "radical_meaning": "water"
+    },
+    {
+      "traditional": "想",
+      "simplified": "想",
+      "codepoint": "U+60F3",
+      "stroke_count": 13,
+      "structure": "上下",
+      "tocfl_band": "基礎級",
+      "zhuyin": "ㄒㄧㄤˇ",
+      "pinyin": "xiǎng",
+      "tone": 3,
+      "gloss_en": "to think; to want",
+      "gloss_zh": "思考；想要",
+      "part_of_speech": "verb",
+      "radical": "心",
+      "radical_meaning": "heart, mind"
+    },
+    {
+      "traditional": "愛",
+      "simplified": "爱",
+      "codepoint": "U+611B",
+      "stroke_count": 13,
+      "structure": "其他",
+      "tocfl_band": "入門級",
+      "zhuyin": "ㄞˋ",
+      "pinyin": "ài",
+      "tone": 4,
+      "gloss_en": "to love; love",
+      "gloss_zh": "喜愛",
+      "part_of_speech": "verb",
+      "radical": "心",
+      "radical_meaning": "heart, mind"
+    },
+    {
+      "traditional": "請",
+      "simplified": "请",
+      "codepoint": "U+8ACB",
+      "stroke_count": 15,
+      "structure": "左右",
+      "tocfl_band": "基礎級",
+      "zhuyin": "ㄑㄧㄥˇ",
+      "pinyin": "qǐng",
+      "tone": 3,
+      "gloss_en": "please; to invite",
+      "gloss_zh": "請求；邀請",
+      "part_of_speech": "verb",
+      "radical": "言",
+      "radical_meaning": "speech"
+    }
+  ],
+  "senses": [
+    {
+      "glyph": "大",
+      "sort": 1,
+      "primary": true,
+      "pos": "adjective",
+      "en": "big",
+      "zh": "大"
+    },
+    {
+      "glyph": "小",
+      "sort": 1,
+      "primary": true,
+      "pos": "adjective",
+      "en": "small",
+      "zh": "小"
+    },
+    {
+      "glyph": "心",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "heart; mind",
+      "zh": "心臟；內心"
+    },
+    {
+      "glyph": "情",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "feeling; emotion",
+      "zh": "情感"
+    },
+    {
+      "glyph": "情",
+      "sort": 2,
+      "primary": false,
+      "pos": "noun",
+      "en": "situation",
+      "zh": "情形"
+    },
+    {
+      "glyph": "想",
+      "sort": 1,
+      "primary": true,
+      "pos": "verb",
+      "en": "to think; to want",
+      "zh": "思考；想要"
+    },
+    {
+      "glyph": "愛",
+      "sort": 1,
+      "primary": true,
+      "pos": "verb",
+      "en": "to love; love",
+      "zh": "喜愛"
+    },
+    {
+      "glyph": "晴",
+      "sort": 1,
+      "primary": true,
+      "pos": "adjective",
+      "en": "sunny; clear sky",
+      "zh": "天晴"
+    },
+    {
+      "glyph": "木",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "tree; wood",
+      "zh": "樹木；木材"
+    },
+    {
+      "glyph": "林",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "grove; woods",
+      "zh": "樹林"
+    },
+    {
+      "glyph": "森",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "forest",
+      "zh": "森林"
+    },
+    {
+      "glyph": "水",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "water",
+      "zh": "水"
+    },
+    {
+      "glyph": "江",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "large river",
+      "zh": "大河"
+    },
+    {
+      "glyph": "河",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "river",
+      "zh": "河流"
+    },
+    {
+      "glyph": "海",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "sea",
+      "zh": "海洋"
+    },
+    {
+      "glyph": "清",
+      "sort": 1,
+      "primary": true,
+      "pos": "adjective",
+      "en": "clear; pure",
+      "zh": "清澈"
+    },
+    {
+      "glyph": "湖",
+      "sort": 1,
+      "primary": true,
+      "pos": "noun",
+      "en": "lake",
+      "zh": "湖泊"
+    },
+    {
+      "glyph": "看",
+      "sort": 1,
+      "primary": true,
+      "pos": "verb",
+      "en": "to look at",
+      "zh": "看"
+    },
+    {
+      "glyph": "見",
+      "sort": 1,
+      "primary": true,
+      "pos": "verb",
+      "en": "to see",
+      "zh": "看見"
+    },
+    {
+      "glyph": "請",
+      "sort": 1,
+      "primary": true,
+      "pos": "verb",
+      "en": "please; to invite",
+      "zh": "請求；邀請"
+    },
+    {
+      "glyph": "青",
+      "sort": 1,
+      "primary": true,
+      "pos": "adjective",
+      "en": "blue-green; young",
+      "zh": "青色；年輕"
+    }
+  ],
+  "words": [
+    {
+      "traditional": "大小",
+      "simplified": "大小",
+      "pinyin": "dàxiǎo",
+      "en": "size",
+      "zh": "大小",
+      "pos": "noun",
+      "chars": [
+        "大",
+        "小"
+      ]
+    },
+    {
+      "traditional": "大水",
+      "simplified": "大水",
+      "pinyin": "dàshuǐ",
+      "en": "flood",
+      "zh": "洪水",
+      "pos": "noun",
+      "chars": [
+        "大",
+        "水"
+      ]
+    },
+    {
+      "traditional": "大江",
+      "simplified": "大江",
+      "pinyin": "dàjiāng",
+      "en": "a great river",
+      "zh": "大江",
+      "pos": "noun",
+      "chars": [
+        "大",
+        "江"
+      ]
+    },
+    {
+      "traditional": "大河",
+      "simplified": "大河",
+      "pinyin": "dàhé",
+      "en": "a large river",
+      "zh": "大河",
+      "pos": "noun",
+      "chars": [
+        "大",
+        "河"
+      ]
+    },
+    {
+      "traditional": "大海",
+      "simplified": "大海",
+      "pinyin": "dàhǎi",
+      "en": "the sea",
+      "zh": "大海",
+      "pos": "noun",
+      "chars": [
+        "大",
+        "海"
+      ]
+    },
+    {
+      "traditional": "小心",
+      "simplified": "小心",
+      "pinyin": "xiǎoxīn",
+      "en": "be careful",
+      "zh": "留意",
+      "pos": "verb",
+      "chars": [
+        "小",
+        "心"
+      ]
+    },
+    {
+      "traditional": "小河",
+      "simplified": "小河",
+      "pinyin": "xiǎohé",
+      "en": "a brook",
+      "zh": "小河",
+      "pos": "noun",
+      "chars": [
+        "小",
+        "河"
+      ]
+    },
+    {
+      "traditional": "小看",
+      "simplified": "小看",
+      "pinyin": "xiǎokàn",
+      "en": "to look down on",
+      "zh": "輕視",
+      "pos": "verb",
+      "chars": [
+        "小",
+        "看"
+      ]
+    },
+    {
+      "traditional": "心情",
+      "simplified": "心情",
+      "pinyin": "xīnqíng",
+      "en": "mood",
+      "zh": "心情",
+      "pos": "noun",
+      "chars": [
+        "心",
+        "情"
+      ]
+    },
+    {
+      "traditional": "心想",
+      "simplified": "心想",
+      "pinyin": "xīnxiǎng",
+      "en": "to think to oneself",
+      "zh": "心裡想",
+      "pos": "verb",
+      "chars": [
+        "心",
+        "想"
+      ]
+    },
+    {
+      "traditional": "心愛",
+      "simplified": "心爱",
+      "pinyin": "xīn'ài",
+      "en": "beloved",
+      "zh": "心裡喜愛",
+      "pos": "adjective",
+      "chars": [
+        "心",
+        "愛"
+      ]
+    },
+    {
+      "traditional": "情愛",
+      "simplified": "情爱",
+      "pinyin": "qíng'ài",
+      "en": "affection",
+      "zh": "情愛",
+      "pos": "noun",
+      "chars": [
+        "情",
+        "愛"
+      ]
+    },
+    {
+      "traditional": "想見",
+      "simplified": "想见",
+      "pinyin": "xiǎngjiàn",
+      "en": "to long to see",
+      "zh": "想要見到",
+      "pos": "verb",
+      "chars": [
+        "想",
+        "見"
+      ]
+    },
+    {
+      "traditional": "愛心",
+      "simplified": "爱心",
+      "pinyin": "àixīn",
+      "en": "compassion",
+      "zh": "關愛他人的心",
+      "pos": "noun",
+      "chars": [
+        "愛",
+        "心"
+      ]
+    },
+    {
+      "traditional": "愛情",
+      "simplified": "爱情",
+      "pinyin": "àiqíng",
+      "en": "romantic love",
+      "zh": "愛情",
+      "pos": "noun",
+      "chars": [
+        "愛",
+        "情"
+      ]
+    },
+    {
+      "traditional": "林木",
+      "simplified": "林木",
+      "pinyin": "línmù",
+      "en": "forest trees; timber",
+      "zh": "樹林",
+      "pos": "noun",
+      "chars": [
+        "林",
+        "木"
+      ]
+    },
+    {
+      "traditional": "林海",
+      "simplified": "林海",
+      "pinyin": "línhǎi",
+      "en": "a vast forest",
+      "zh": "像海一樣的森林",
+      "pos": "noun",
+      "chars": [
+        "林",
+        "海"
+      ]
+    },
+    {
+      "traditional": "森林",
+      "simplified": "森林",
+      "pinyin": "sēnlín",
+      "en": "forest",
+      "zh": "大片的樹林",
+      "pos": "noun",
+      "chars": [
+        "森",
+        "林"
+      ]
+    },
+    {
+      "traditional": "江水",
+      "simplified": "江水",
+      "pinyin": "jiāngshuǐ",
+      "en": "river water",
+      "zh": "江裡的水",
+      "pos": "noun",
+      "chars": [
+        "江",
+        "水"
+      ]
+    },
+    {
+      "traditional": "江河",
+      "simplified": "江河",
+      "pinyin": "jiānghé",
+      "en": "rivers",
+      "zh": "江河",
+      "pos": "noun",
+      "chars": [
+        "江",
+        "河"
+      ]
+    },
+    {
+      "traditional": "江湖",
+      "simplified": "江湖",
+      "pinyin": "jiānghú",
+      "en": "rivers and lakes; the wider world",
+      "zh": "江河湖海",
+      "pos": "noun",
+      "chars": [
+        "江",
+        "湖"
+      ]
+    },
+    {
+      "traditional": "河水",
+      "simplified": "河水",
+      "pinyin": "héshuǐ",
+      "en": "river water",
+      "zh": "河裡的水",
+      "pos": "noun",
+      "chars": [
+        "河",
+        "水"
+      ]
+    },
+    {
+      "traditional": "海水",
+      "simplified": "海水",
+      "pinyin": "hǎishuǐ",
+      "en": "seawater",
+      "zh": "海水",
+      "pos": "noun",
+      "chars": [
+        "海",
+        "水"
+      ]
+    },
+    {
+      "traditional": "清心",
+      "simplified": "清心",
+      "pinyin": "qīngxīn",
+      "en": "a pure mind",
+      "zh": "使心清淨",
+      "pos": "noun",
+      "chars": [
+        "清",
+        "心"
+      ]
+    },
+    {
+      "traditional": "清水",
+      "simplified": "清水",
+      "pinyin": "qīngshuǐ",
+      "en": "clear water",
+      "zh": "清澈的水",
+      "pos": "noun",
+      "chars": [
+        "清",
+        "水"
+      ]
+    },
+    {
+      "traditional": "湖水",
+      "simplified": "湖水",
+      "pinyin": "húshuǐ",
+      "en": "lake water",
+      "zh": "湖裡的水",
+      "pos": "noun",
+      "chars": [
+        "湖",
+        "水"
+      ]
+    },
+    {
+      "traditional": "看見",
+      "simplified": "看见",
+      "pinyin": "kànjiàn",
+      "en": "to see",
+      "zh": "看見",
+      "pos": "verb",
+      "chars": [
+        "看",
+        "見"
+      ]
+    },
+    {
+      "traditional": "請看",
+      "simplified": "请看",
+      "pinyin": "qǐngkàn",
+      "en": "please look",
+      "zh": "請看",
+      "pos": "verb",
+      "chars": [
+        "請",
+        "看"
+      ]
+    },
+    {
+      "traditional": "青青",
+      "simplified": "青青",
+      "pinyin": "qīngqīng",
+      "en": "lush and green",
+      "zh": "草木茂盛",
+      "pos": "adjective",
+      "chars": [
+        "青",
+        "青"
+      ]
+    }
+  ],
+  "graphs": {
+    "木": [
+      {
+        "label": "林木",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "木",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "林",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "木",
+        "weight": 0.75
+      },
+      {
+        "label": "森",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "木",
+        "weight": 0.75
+      },
+      {
+        "label": "林",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "草木",
+        "weight": 0.6
+      },
+      {
+        "label": "森",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "草木",
+        "weight": 0.6
+      }
+    ],
+    "林": [
+      {
+        "label": "林木",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "林海",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "森林",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "木",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "木",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "木",
+        "weight": 0.75
+      },
+      {
+        "label": "森",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "木",
+        "weight": 0.75
+      },
+      {
+        "label": "木",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "草木",
+        "weight": 0.6
+      },
+      {
+        "label": "森",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "草木",
+        "weight": 0.6
+      },
+      {
+        "label": "木",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "2 × repeat",
+        "weight": 1.0
+      },
+      {
+        "label": "森",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "grove; woods · forest",
+        "weight": 0.65
+      }
+    ],
+    "森": [
+      {
+        "label": "森林",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "木",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "木",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "木",
+        "weight": 0.75
+      },
+      {
+        "label": "林",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "木",
+        "weight": 0.75
+      },
+      {
+        "label": "木",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "草木",
+        "weight": 0.6
+      },
+      {
+        "label": "林",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "草木",
+        "weight": 0.6
+      },
+      {
+        "label": "木",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "3 × repeat",
+        "weight": 1.0
+      },
+      {
+        "label": "林",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "forest · grove; woods",
+        "weight": 0.65
+      }
+    ],
+    "水": [
+      {
+        "label": "大水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "江水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "河水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "海水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "清水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "湖水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      }
+    ],
+    "江": [
+      {
+        "label": "大江",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "江水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "江河",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "江湖",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水",
+        "weight": 0.75
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "氵",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "large river · river",
+        "weight": 0.7
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "variant_of",
+        "detail": "氵 is the left side form",
+        "weight": 1.0
+      }
+    ],
+    "河": [
+      {
+        "label": "大河",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "小河",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "江河",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "河水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水",
+        "weight": 0.75
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "氵",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "river · large river",
+        "weight": 0.7
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "variant_of",
+        "detail": "氵 is the left side form",
+        "weight": 1.0
+      }
+    ],
+    "海": [
+      {
+        "label": "大海",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "林海",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "海水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水",
+        "weight": 0.75
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "氵",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "variant_of",
+        "detail": "氵 is the left side form",
+        "weight": 1.0
+      }
+    ],
+    "湖": [
+      {
+        "label": "江湖",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "湖水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水",
+        "weight": 0.75
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "水域",
+        "weight": 0.6
+      },
+      {
+        "label": "氵",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "variant_of",
+        "detail": "氵 is the left side form",
+        "weight": 1.0
+      }
+    ],
+    "心": [
+      {
+        "label": "小心",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "心情",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "心想",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "心愛",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "愛心",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "清心",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "心",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心 · 忄",
+        "weight": 0.75
+      },
+      {
+        "label": "想",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "愛",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "想",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "愛",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "heart; mind · feeling; emotion",
+        "weight": 0.55
+      }
+    ],
+    "青": [
+      {
+        "label": "青青",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "青青",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "青",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "晴",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "請",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      }
+    ],
+    "清": [
+      {
+        "label": "清心",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "清水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "青",
+        "kind": "component",
+        "relation": "phonetic_of",
+        "detail": "right",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "晴",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "請",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "水",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水",
+        "weight": 0.75
+      },
+      {
+        "label": "江",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "河",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "海",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "湖",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "水 · 氵",
+        "weight": 0.75
+      },
+      {
+        "label": "氵",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      },
+      {
+        "label": "水",
+        "kind": "component",
+        "relation": "variant_of",
+        "detail": "氵 is the left side form",
+        "weight": 1.0
+      }
+    ],
+    "情": [
+      {
+        "label": "心情",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "情愛",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "愛情",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "青",
+        "kind": "component",
+        "relation": "phonetic_of",
+        "detail": "right",
+        "weight": 1.0
+      },
+      {
+        "label": "心",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "晴",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "請",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "心",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "想",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "愛",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "心",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "想",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "愛",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "忄",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      },
+      {
+        "label": "心",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "feeling; emotion · heart; mind",
+        "weight": 0.55
+      },
+      {
+        "label": "愛",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "feeling; emotion · to love; love",
+        "weight": 0.75
+      },
+      {
+        "label": "心",
+        "kind": "component",
+        "relation": "variant_of",
+        "detail": "忄 is the left side form",
+        "weight": 1.0
+      }
+    ],
+    "請": [
+      {
+        "label": "請看",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "青",
+        "kind": "component",
+        "relation": "phonetic_of",
+        "detail": "right",
+        "weight": 1.0
+      },
+      {
+        "label": "言",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "晴",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "訁",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      },
+      {
+        "label": "言",
+        "kind": "component",
+        "relation": "variant_of",
+        "detail": "訁 is the left side form",
+        "weight": 1.0
+      }
+    ],
+    "晴": [
+      {
+        "label": "青",
+        "kind": "component",
+        "relation": "phonetic_of",
+        "detail": "right",
+        "weight": 1.0
+      },
+      {
+        "label": "日",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "清",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "請",
+        "kind": "character",
+        "relation": "same_phonetic",
+        "detail": "青",
+        "weight": 0.85
+      },
+      {
+        "label": "日",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "left",
+        "weight": 1.0
+      }
+    ],
+    "愛": [
+      {
+        "label": "心愛",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "情愛",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "愛心",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "愛情",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "心",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "心",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心 · 忄",
+        "weight": 0.75
+      },
+      {
+        "label": "想",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "心",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "想",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "心",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "bottom",
+        "weight": 1.0
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "to love; love · feeling; emotion",
+        "weight": 0.75
+      }
+    ],
+    "想": [
+      {
+        "label": "心想",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "想見",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "相",
+        "kind": "component",
+        "relation": "phonetic_of",
+        "detail": "top",
+        "weight": 1.0
+      },
+      {
+        "label": "心",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "心",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心 · 忄",
+        "weight": 0.75
+      },
+      {
+        "label": "愛",
+        "kind": "character",
+        "relation": "same_semantic",
+        "detail": "心",
+        "weight": 0.75
+      },
+      {
+        "label": "心",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "情",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "愛",
+        "kind": "character",
+        "relation": "same_topic",
+        "detail": "情緒",
+        "weight": 0.6
+      },
+      {
+        "label": "心",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "bottom",
+        "weight": 1.0
+      }
+    ],
+    "大": [
+      {
+        "label": "小",
+        "kind": "character",
+        "relation": "antonym",
+        "detail": "big · small",
+        "weight": 1.0
+      },
+      {
+        "label": "大小",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "大水",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "大江",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "大河",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "大海",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "大",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      }
+    ],
+    "小": [
+      {
+        "label": "大",
+        "kind": "character",
+        "relation": "antonym",
+        "detail": "small · big",
+        "weight": 1.0
+      },
+      {
+        "label": "大小",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "小心",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "小河",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "小看",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "小",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      }
+    ],
+    "看": [
+      {
+        "label": "手",
+        "kind": "component",
+        "relation": "component_of",
+        "detail": "top",
+        "weight": 1.0
+      },
+      {
+        "label": "小看",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "看見",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 1",
+        "weight": 0.9
+      },
+      {
+        "label": "請看",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "目",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "目",
+        "kind": "component",
+        "relation": "semantic_of",
+        "detail": "bottom",
+        "weight": 1.0
+      },
+      {
+        "label": "見",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "to look at · to see",
+        "weight": 0.9
+      }
+    ],
+    "見": [
+      {
+        "label": "想見",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "看見",
+        "kind": "word",
+        "relation": "in_word",
+        "detail": "position 2",
+        "weight": 0.9
+      },
+      {
+        "label": "見",
+        "kind": "component",
+        "relation": "radical_of",
+        "detail": "Kangxi radical",
+        "weight": 1.0
+      },
+      {
+        "label": "看",
+        "kind": "character",
+        "relation": "similar_meaning",
+        "detail": "to see · to look at",
+        "weight": 0.9
+      }
+    ]
+  }
+}
